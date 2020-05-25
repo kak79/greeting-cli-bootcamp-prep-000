@@ -2,7 +2,7 @@
 
 def greeting(name)
   
-  puts "Hi, #{name}
+  puts "Hello #{name}
 
 
 
